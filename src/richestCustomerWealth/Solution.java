@@ -16,4 +16,6 @@ class Solution {
         }
         return Collections.max(wealth);
     }
+
+
 }
